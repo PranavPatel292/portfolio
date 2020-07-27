@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.4cc6fb91.chunk.css",
+    "main.css": "/portfolio/static/css/main.265604ea.chunk.css",
     "main.js": "/portfolio/static/js/main.18c42e5f.chunk.js",
     "main.js.map": "/portfolio/static/js/main.18c42e5f.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.7099e02f.js",
@@ -9,10 +9,10 @@
     "static/js/2.69a3fc44.chunk.js": "/portfolio/static/js/2.69a3fc44.chunk.js",
     "static/js/2.69a3fc44.chunk.js.map": "/portfolio/static/js/2.69a3fc44.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.6c4c01581182cd992a79422d628fff26.js": "/portfolio/precache-manifest.6c4c01581182cd992a79422d628fff26.js",
+    "precache-manifest.9d16537639c0ec42aff21287566c44bc.js": "/portfolio/precache-manifest.9d16537639c0ec42aff21287566c44bc.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/portfolio/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.4cc6fb91.chunk.css.map": "/portfolio/static/css/main.4cc6fb91.chunk.css.map",
+    "static/css/main.265604ea.chunk.css.map": "/portfolio/static/css/main.265604ea.chunk.css.map",
     "static/js/2.69a3fc44.chunk.js.LICENSE.txt": "/portfolio/static/js/2.69a3fc44.chunk.js.LICENSE.txt",
     "static/media/Pranav_Resume.pdf": "/portfolio/static/media/Pranav_Resume.59f95faf.pdf",
     "static/media/astronomy.png": "/portfolio/static/media/astronomy.bbb668b8.png",
@@ -30,7 +30,7 @@
     "static/js/runtime-main.7099e02f.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.69a3fc44.chunk.js",
-    "static/css/main.4cc6fb91.chunk.css",
+    "static/css/main.265604ea.chunk.css",
     "static/js/main.18c42e5f.chunk.js"
   ]
 }
