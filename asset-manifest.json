@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.265604ea.chunk.css",
-    "main.js": "/portfolio/static/js/main.18c42e5f.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.18c42e5f.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.9dfca90b.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.9dfca90b.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.7099e02f.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.7099e02f.js.map",
     "static/css/2.af3c1da9.chunk.css": "/portfolio/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.69a3fc44.chunk.js": "/portfolio/static/js/2.69a3fc44.chunk.js",
-    "static/js/2.69a3fc44.chunk.js.map": "/portfolio/static/js/2.69a3fc44.chunk.js.map",
+    "static/js/2.60f37598.chunk.js": "/portfolio/static/js/2.60f37598.chunk.js",
+    "static/js/2.60f37598.chunk.js.map": "/portfolio/static/js/2.60f37598.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.9d16537639c0ec42aff21287566c44bc.js": "/portfolio/precache-manifest.9d16537639c0ec42aff21287566c44bc.js",
+    "precache-manifest.a84909f555fd25adf44e11b6fd5834ce.js": "/portfolio/precache-manifest.a84909f555fd25adf44e11b6fd5834ce.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/portfolio/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.265604ea.chunk.css.map": "/portfolio/static/css/main.265604ea.chunk.css.map",
-    "static/js/2.69a3fc44.chunk.js.LICENSE.txt": "/portfolio/static/js/2.69a3fc44.chunk.js.LICENSE.txt",
+    "static/js/2.60f37598.chunk.js.LICENSE.txt": "/portfolio/static/js/2.60f37598.chunk.js.LICENSE.txt",
     "static/media/Pranav_Resume.pdf": "/portfolio/static/media/Pranav_Resume.59f95faf.pdf",
     "static/media/astronomy.png": "/portfolio/static/media/astronomy.bbb668b8.png",
     "static/media/git.jpg": "/portfolio/static/media/git.f3455718.jpg",
@@ -21,6 +21,7 @@
     "static/media/projectFifth.png": "/portfolio/static/media/projectFifth.48a9f30a.png",
     "static/media/projectForth.png": "/portfolio/static/media/projectForth.5e3f89b3.png",
     "static/media/projectSecond.png": "/portfolio/static/media/projectSecond.1c72ea66.png",
+    "static/media/projectSeven.png": "/portfolio/static/media/projectSeven.caef304b.png",
     "static/media/projectSix.png": "/portfolio/static/media/projectSix.fa280fb1.png",
     "static/media/projectThird.png": "/portfolio/static/media/projectThird.2b2ffcc8.png",
     "static/media/main.css": "/portfolio/static/media/third.99fa9647.jpg",
@@ -29,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.7099e02f.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.69a3fc44.chunk.js",
+    "static/js/2.60f37598.chunk.js",
     "static/css/main.265604ea.chunk.css",
-    "static/js/main.18c42e5f.chunk.js"
+    "static/js/main.9dfca90b.chunk.js"
   ]
 }
