@@ -1,0 +1,219 @@
+<div className="row justify-content-between section_style"> {/* second row for the col-12 */}
+<div className="col-12 col-md-4 col-lg-4">
+    <div className="row justify-content-center">
+        <h4 className="justify-content-center">Education</h4>
+    </div>
+</div>
+<div className="col-12 col-md-4 col-lg-4">
+    <div className="row justify-content-center">
+        <h4 className="justify-content-center">Experiences</h4>
+    </div>
+</div>
+<div className="col-12 col-md-4 col-lg-4 section_style">
+    <div className="row justify-content-center">
+        <h4 className="justify-content-center">Hobbies</h4>
+    </div>
+</div>
+</div>
+
+import fourthProject from "./images/projetcs/projectForth.png"
+import fifthProject from "./images/projetcs/projectFifth.png"
+import sixProject from "./images/projetcs/projectSix.png"
+
+
+
+<div className="col-12 col-md-12 col-lg-4">
+                                        <div className="row justify-content-center">
+
+                                            <div className="card cust_card">
+                                            <div className="col-12 col-md-12 col-lg-12">
+                                            <div className="row justify-content-center">
+                                                    <h4 className="card-title font-weight-bold"><a href="http://pranavserver292.hopto.org/" className="cust_card_heading" target="_blank" rel="noopener noreferrer">Custom Cloud</a></h4>
+                                                </div>
+                                            </div>
+                                                <img className="card-img-top" src={thirdProject} alt="thirdProject1" className="img_project" />
+                                                <div className="card-body">
+                                                    <p className="card-text cust_card_text">A self made could storage was design and build to store and retrive a large volume of data. A simple user authentication was also been made to prevent unauthorized access.</p>
+
+                                                    <div className="col-12 col-md-12 col-lg-12">
+                                                        <div className="row justify-content-center">
+                                                            <p>Powerd By</p>
+                                                        </div>
+
+                                                        <div className="row justify-content-center">
+                                                            <div className="col-6 col-md-6 col-lg-6">
+                                                                <div className="row justify-content-center">
+                                                                    <img src={node} alt="nodejs" className="project_icon" />
+                                                                </div>
+                                                            </div>
+
+                                                            <div className="col-6 col-md-6 col-lg-6">
+                                                                <div className="row justify-content-center">
+                                                                    <img src={js} alt="js" className="project_icon" />
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                                    <div className="col-12 col-md-12 col-lg-12">
+                                                        <div className="row justify-content-center">
+                                                            <div className="col-6 col-md-6 col-lg-6">
+                                                                <div className="row justify-content-center">
+                                                                    <a href="http://pranavserver292.hopto.org/" target="_blank" rel="noopener noreferrer">Live Demo</a>
+                                                                </div>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+                                    <div className="col-12 col-md-12 col-lg-4">
+                                        <div className="row justify-content-center">
+                                            <div className="card cust_card">
+                                            <div className="col-12 col-md-12 col-lg-12">
+                                                <div className="row justify-content-center">
+                                                    <h4 className="card-title font-weight-bold"><a href="https://pranavpatel292.github.io/n-Queen/" className="cust_card_heading" target="_blank" rel="noopener noreferrer">N Queen Problem</a></h4>
+                                                </div>
+                                                </div>
+                                                <img className="card-img-top" src={sevenProject} alt="thirdProject1" className="img_project" />
+                                                <div className="card-body">
+                                                    <p className="card-text cust_card_text">The project is intended to visualize the famous N queen problem and written in vanilla JavaScript. No need to import any kind of framework just clone the repo and you are ready to go.</p>
+
+                                                    <div className="col-12 col-md-12 col-lg-12">
+                                                        <div className="row justify-content-center">
+                                                            <p>Powerd By</p>
+                                                        </div>
+
+                                                        <div className="row justify-content-center">
+
+                                                            <div className="col-6 col-md-6 col-lg-6">
+                                                                <div className="row justify-content-center">
+                                                                    <img src={js} alt="js" className="project_icon" />
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                                    <div className="col-12 col-md-12 col-lg-12">
+                                                        <div className="row justify-content-center">
+                                                            <div className="col-6 col-md-6 col-lg-6">
+                                                                <div className="row justify-content-center">
+                                                                    <a href="https://pranavpatel292.github.io/n-Queen/" target="_blank" rel="noopener noreferrer">Live Demo</a>
+                                                                </div>
+                                                            </div>
+
+                                                            <div className="col-6 col-md-6 col-lg-6">
+                                                                <div className="row justify-content-center">
+                                                                    <a href="https://github.com/PranavPatel292/n-Queen" target="_blank" rel="noopener noreferrer">Source</a>
+                                                                </div>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    <div className="col-12 col-md-12 col-lg-4">
+                                        <div className="row justify-content-center">
+                                            <div className="card cust_card">
+                                            <div className="col-12 col-md-12 col-lg-12">
+                                                <div className="row justify-content-center">
+                                                    <h4 className="card-title font-weight-bold"><a href="https://pranavpatel292.github.io/binarySearchTree/" className="cust_card_heading" target="_blank" rel="noopener noreferrer">Binary Search tree</a></h4>
+                                                </div>
+                                                </div>
+                                                <img className="card-img-top" src={binaryTree} alt="binaryTree1" className="img_project" />
+                                                <div className="card-body">
+                                                    <p className="card-text cust_card_text">The project is intended to visualize the binary tree and written in vanilla JavaScript. No need to import any kind of framework just clone the repo and you are ready to go.</p>
+
+                                                    <div className="col-12 col-md-12 col-lg-12">
+                                                        <div clasNames="row justify-content-center">
+                                                            <p>Powerd By</p>
+                                                        </div>
+
+                                                        <div className="row justify-content-center">
+
+                                                            <div className="col-6 col-md-6 col-lg-6">
+                                                                <div className="row justify-content-center">
+                                                                    <img src={js} alt="js" className="project_icon" />
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                                    <div className="col-12 col-md-12 col-lg-12">
+                                                        <div className="row justify-content-center">
+                                                            <div className="col-6 col-md-6 col-lg-6">
+                                                                <div className="row justify-content-center">
+                                                                    <a href="https://pranavpatel292.github.io/binarySearchTree/" target="_blank" rel="noopener noreferrer">Live Demo</a>
+                                                                </div>
+                                                            </div>
+
+                                                            <div className="col-6 col-md-6 col-lg-6">
+                                                                <div className="row justify-content-center">
+                                                                    <a href="https://github.com/PranavPatel292/binarySearchTree" target="_blank" rel="noopener noreferrer">Source</a>
+                                                                </div>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div className="col-12 col-md-12 col-lg-4">
+                                        <div className="row justify-content-center">
+                                            <div className="card cust_card">
+                                                <div className="row justify-content-center">
+                                                    <h4 className="card-title font-weight-bold"><a href="https://pranavpatel292.github.io/binarySearchTree/" className="cust_card_heading" target="_blank" rel="noopener noreferrer">AVL Search tree</a></h4>
+                                                </div>
+                                                <img className="card-img-top" src={avlTree} alt="avlTree1" className="img_project" />
+                                                <div className="card-body">
+                                                    <p className="card-text cust_card_text">The project is intended to visualize the AVL tree and written in vanilla JavaScript. No need to import any kind of framework just clone the repo and you are ready to go.</p>
+
+                                                    <div className="col-12 col-md-12 col-lg-12">
+                                                        <div clasNames="row justify-content-center">
+                                                            <p>Powerd By</p>
+                                                        </div>
+
+                                                        <div className="row justify-content-center">
+
+                                                            <div className="col-6 col-md-6 col-lg-6">
+                                                                <div className="row justify-content-center">
+                                                                    <img src={js} alt="js" className="project_icon" />
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                                    <div className="col-12 col-md-12 col-lg-12">
+                                                        <div className="row justify-content-center">
+                                                            <div className="col-6 col-md-6 col-lg-6">
+                                                                <div className="row justify-content-center">
+                                                                    <a href="https://pranavpatel292.github.io/avlTree/" target="_blank" rel="noopener noreferrer">Live Demo</a>
+                                                                </div>
+                                                            </div>
+
+                                                            <div className="col-6 col-md-6 col-lg-6">
+                                                                <div class="row justify-content-center">
+                                                                    <a href="https://github.com/PranavPatel292/avlTree" target="_blank" rel="noopener noreferrer">Source</a>
+                                                                </div>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>

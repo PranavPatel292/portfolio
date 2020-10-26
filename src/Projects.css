@@ -1,0 +1,36 @@
+.cust_card{
+    margin: 10px 2px 10px 2px;
+    height: auto;
+    max-height: auto;
+    width: 450px;
+}
+
+.project-intro{
+    margin: 100px 0 0 0;
+}
+
+.project_icon{
+    height: 35px;
+    width: 50px;
+}
+
+.cust_card_text{
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.00938em;
+    text-align: justify;
+}
+
+.img_project{
+    height: 200px;
+    width: auto;
+}
+
+.cust_card_heading{
+    color: black;
+}
+
+.my-col{
+    border: 1px solid red;
+}
