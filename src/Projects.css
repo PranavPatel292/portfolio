@@ -22,9 +22,13 @@
     text-align: justify;
 }
 
-.img_project{
+.card-img-top{
     height: 200px;
-    width: auto;
+    overflow: hidden;
+}
+
+.card-text{
+    text-align:  justify;
 }
 
 .cust_card_heading{

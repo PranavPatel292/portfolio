@@ -20,7 +20,7 @@ class Header extends React.Component {
                     <div className="row justify-content-center">
                       <section className="cust_h3">
                         <Typical
-                          steps={['I am a', 2500, "I am a computer engineer with a passion to build an unique & useful applications. I loved to take a new ventures to bring wowness to the application. Initiate the scroll to explore my expertise.", 10000]}
+                          steps={['I am a', 2500, "I am a computer engineer with a passion for building a unique & useful application. I loved to take a new venture to bring up the wow factor into the application. Initiate the scroll to explore my expertise.", 10000]}
                           loop={1}
                           wrapper="p"
                         /></section>
@@ -29,6 +29,7 @@ class Header extends React.Component {
                 </div>
               </div>
             </div>
+            <img src="https://uploads-ssl.webflow.com/5b13df51d0d5fe8211f203da/5b13f32811a9ded47d358b1d_arrow-blue-long.svg" class="arrow"/>
           </div>
         </div>
       </div>

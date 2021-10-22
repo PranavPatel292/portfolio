@@ -44,7 +44,7 @@ class AboutMe extends React.Component {
                                 <div className="row justify-content-center">
                                     <div className="col-12 col-md-6 col-lg-5">
                                         <div className="row justify-content-center">
-                                            <p className="tool_text">Although the following set of tools are my goto for front-end and back-end developement, I'm always experimenting and challenging myself to try emerging tools and technologies to ensure that I can create engaging and most importantly, <strong><i>delightful</i></strong> experiences for the end user!</p>
+                                            <p className="tool_text">Although the following set of tools are my goto for front-end and back-end development, I'm always experimenting and challenging myself to try emerging tools and technologies to ensure that I can create engaging and, most importantly, <strong><i>delightful</i></strong> experiences for the end-user!</p>
                                         </div>
 
                                         <br /> <br />
